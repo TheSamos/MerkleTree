@@ -1,3 +1,3 @@
 # MerkleTree
 A simple implementation of a Merkle Tree.
-This is the first version.
+This is the first version. Updated by samfrb.
